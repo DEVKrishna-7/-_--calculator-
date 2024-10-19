@@ -1,5 +1,5 @@
 # -_--calculator-
-I'll create a calculator project with basic arithmetic operations using HTML, CSS, and JavaScript. This project will be suitable for a novice who has essential knowledge of these technologies.
+I'll create a calculator project with basic arithmetic operations using HTML, CSS, and JavaScript.
 
 Here's the complete code for a basic calculator project:
 
